@@ -6,10 +6,10 @@
 /* ANIMACIONES */
 
 .animate__animated.animate__fadeInLeft {
-  --animate-duration: 0.3s;
+  --animate-duration: 1s;
 }
 .animate__animated.animate__fadeInRight {
-  --animate-duration: 0.3s;
+  --animate-duration: 1s;
 }
 
 #logo-img {
