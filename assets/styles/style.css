@@ -2,7 +2,9 @@
   background-color: black;
   color: white;
 }
-
+body {
+  overflow: hidden;
+}
 /* ANIMACIONES */
 
 .animate__animated.animate__fadeInLeft {
