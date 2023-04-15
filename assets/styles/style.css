@@ -3,7 +3,11 @@
   color: white;
 }
 body {
-  overflow: hidden;
+  overflow-x: hidden;
+}
+
+h1 {
+  font-size: 2rem;
 }
 /* ANIMACIONES */
 
@@ -31,7 +35,12 @@ body {
 }
 
 main {
-  padding-top: 5rem;
+  padding-top: 3rem;
+}
+
+textarea {
+  width: 100%;
+  height: 20vh;
 }
 .info-main {
   width: 60%;
@@ -58,13 +67,14 @@ main {
 .description {
   margin-top: 2rem;
 }
-#learn-more {
+#learn-more,
+#send {
   font-weight: bold;
   border: 2px solid white;
   color: white;
   padding: 0.3rem 1rem 0.3rem 1rem;
 }
-
+#send,
 #buy-now {
   font-weight: bold;
   color: black;
