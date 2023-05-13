@@ -59,7 +59,7 @@ textarea {
   align-items: center;
 }
 .info-text {
-  width: 60%;
+  width: 55%;
 }
 
 .info-buttons {
@@ -204,8 +204,11 @@ textarea {
   .info-buttons {
     width: 90%;
   }
+  .container-product {
+    width: 100%;
+  }
   #img-product-presentation {
     position: relative;
-    width: 320px;
+    width: 100%;
   }
 }
