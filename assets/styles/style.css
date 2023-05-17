@@ -130,6 +130,7 @@ textarea {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  animation-delay: 0.5s;
 }
 #img-product-presentation {
   background-color: rgba(255, 255, 255, 0);
