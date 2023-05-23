@@ -156,6 +156,9 @@ textarea {
 footer {
   padding-top: 1rem;
 }
+footer .img-linkedin {
+  width: 1.4rem;
+}
 @media (min-width: 1500px) {
   :root {
     font-size: 18px;
